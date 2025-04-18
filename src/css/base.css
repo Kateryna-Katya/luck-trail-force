@@ -1,1 +1,9 @@
-
+body {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: #201f24;
+  background: #6a8a74;
+}
