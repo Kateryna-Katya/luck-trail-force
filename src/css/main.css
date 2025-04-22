@@ -48,12 +48,14 @@
     background-color: #6a8a74;
     background-image: url('/img/hero/heropic-desk.jpg');
     background-repeat: no-repeat;
-    background-position: top 0 center;
+    background-position: top 80px center;
     background-size: cover;
-    height: 808px;
+  
   }
+ 
   .hero-conteiner {
     margin-left: 820px;
+    margin-top: 124px;
   }
   .hero-title {
     font-family: 'Kanit', sans-serif;
